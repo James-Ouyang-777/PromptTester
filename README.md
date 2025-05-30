@@ -1,4 +1,4 @@
-# PromptTuner
+# PromptTester
 
 A powerful tool for A/B testing prompts across different LLM providers while tracking costs and accuracy metrics.
 
